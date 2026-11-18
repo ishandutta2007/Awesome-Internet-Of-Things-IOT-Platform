@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Internet-Of-Things-IOT-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Internet-Of-Things-IOT-Platform?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Internet-Of-Things-IOT-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Internet-Of-Things-IOT-Platform?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Internet-Of-Things-IOT-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Internet-Of-Things-IOT-Platform?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Internet-Of-Things-IOT-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Internet-Of-Things-IOT-Platform?style=flat-square" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Internet-Of-Things-IOT-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -78,11 +78,11 @@ The table below provides a comprehensive comparison of leading commercial IoT Sa
 
 ## 🚀 Open-Source GitHub Projects
 
-The open-source ecosystem provides sovereign control, local offline operation, and custom extensibility. Below are top-tier projects organized by core architectural role and sorted in descending order by **GitHub Star Count**.
+The open-source ecosystem provides sovereign control, local offline operation, and custom extensibility. Below are top-tier projects organized by core architectural role and sorted in descending order by **GitHub Stars_Count**.
 
 ### High-Throughput IoT Platforms & Digital Twins
 
-| Project & Repo Link | Star Count | Architecture & Tech Stack | Description |
+| Project & Repo Link | Stars_Count | Architecture & Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
 | **[ThingsBoard](https://github.com/thingsboard/thingsboard)** | [![Stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers) | Java, Netty, Akka, PostgreSQL/Cassandra | Flagship enterprise-grade open-source IoT platform for device telemetry collection, rule chains, device shadows, alarms, and customizable rich real-time dashboards. |
 | **[Mainflux / Magistrala](https://github.com/absmach/magistrala)** | [![Stars](https://img.shields.io/github/stars/absmach/magistrala?style=social&color=white)](https://github.com/absmach/magistrala/stargazers) | Go, NATS, Redis, PostgreSQL | Secure, scalable microservices-based IoT platform bridging MQTT, CoAP, HTTP, and WebSocket messages with fine-grained RBAC and multi-tenancy. |
@@ -101,7 +101,7 @@ The open-source ecosystem provides sovereign control, local offline operation, a
 
 ### MQTT 5.0 Brokers & Edge Gateways
 
-| Project & Repo Link | Star Count | Architecture & Tech Stack | Description |
+| Project & Repo Link | Stars_Count | Architecture & Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
 | **[EMQX](https://github.com/emqx/emqx)** | [![Stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers) | Erlang/OTP, RocksDB, QUIC | Ultra-scalable distributed open-source MQTT 5.0 broker capable of sustaining 100M+ concurrent IoT device connections with sub-millisecond packet latency. |
 | **[Eclipse Mosquitto](https://github.com/eclipse/mosquitto)** | [![Stars](https://img.shields.io/github/stars/eclipse/mosquitto?style=social&color=white)](https://github.com/eclipse/mosquitto/stargazers) | C, epoll | Featherweight, ubiquitous open-source MQTT broker (v3.1.1 and v5.0) engineered for low-memory footprint edge boards and single-board servers. |
@@ -115,7 +115,7 @@ The open-source ecosystem provides sovereign control, local offline operation, a
 
 ### Smart Home, Building & Microcontroller Frameworks
 
-| Project & Repo Link | Star Count | Architecture & Tech Stack | Description |
+| Project & Repo Link | Stars_Count | Architecture & Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
 | **[Home Assistant](https://github.com/home-assistant/core)** | [![Stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers) | Python, Asyncio, WebSockets | World's premier open-source local-first smart home and IoT automation platform supporting 2,500+ device integrations without cloud telemetry tracking. |
 | **[Node-RED](https://github.com/node-red/node-red)** | [![Stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers) | Node.js, Flow-based GUI | Visual, browser-based flow-based programming tool for wiring together hardware devices, MQTT brokers, REST APIs, and industrial automation services. |
@@ -126,7 +126,7 @@ The open-source ecosystem provides sovereign control, local offline operation, a
 
 ### Time-Series Databases, Visualizations & RTOS
 
-| Project & Repo Link | Star Count | Architecture & Tech Stack | Description |
+| Project & Repo Link | Stars_Count | Architecture & Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
 | **[Grafana](https://github.com/grafana/grafana)** | [![Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) | Go, TypeScript, React | The premier open-source interactive data visualization, telemetry dashboarding, and alerting engine for time-series metric databases. |
 | **[InfluxDB](https://github.com/influxdata/influxdb)** | [![Stars](https://img.shields.io/github/stars/influxdata/influxdb?style=social&color=white)](https://github.com/influxdata/influxdb/stargazers) | Rust, Apache Arrow, DataFusion | High-throughput open-source time-series database optimized for high-write-volume IoT telemetry, automated downsampling, and sub-second analytical queries. |
@@ -168,7 +168,7 @@ We welcome contributions from embedded engineers, cloud architects, and IoT enth
 3. 📝 **Add or update an entry** in `README.md`:
    - Follow the established markdown table format.
    - For SaaS products: Provide verifiable starting tier pricing, explicit free tier / trial terms, and corporate financial scale.
-   - For Open-Source projects: Include the GitHub repository link, official social star badge (`style=social&color=white`) pointing to `/stargazers`, and primary architectural stack details.
+   - For Open-Source projects: Include the GitHub repository link, official social Stars_Badge (`style=social&color=white`) pointing to `/stargazers`, and primary architectural stack details.
 4. 🚀 **Commit your modifications** with a clear commit message.
 5. 📬 **Submit a Pull Request (PR)** detailing the justification and official documentation source.
 
